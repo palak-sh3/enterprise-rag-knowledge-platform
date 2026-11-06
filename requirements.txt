@@ -1,0 +1,17 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+python-dotenv>=1.0
+PyJWT>=2.8
+pwdlib[argon2]>=0.2
+qdrant-client>=1.12
+sentence-transformers>=3.0
+rank-bm25>=0.2
+cohere>=5.11
+groq>=0.11
+pypdf>=5.0
+python-docx>=1.1
+beautifulsoup4>=4.12
+requests>=2.32
+numpy>=1.26
+pandas>=2.0,<3.0
